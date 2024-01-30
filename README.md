@@ -18,11 +18,3 @@ In this step, the algorithm assigns weights to features based on their correlati
 
 Step 4: Correlation-Based Feature Weighting
 Finally, the algorithm incorporates feature-level weighting based on the correlation between features. Features with low correlation to other features receive less weight, potentially reducing noise and improving classification accuracy.
-
-Usage
-To use this implementation of the KNN algorithm, follow these steps:
-
-Clone the repository to your local machine.
-Install the required dependencies (list them if any).
-Run the main script or notebook to see the implementation in action.
-Experiment with different parameters and datasets to evaluate performance.
